@@ -6,10 +6,10 @@ def introduction(name)
   print "Hi, m name is #{name}."
 end
 def introduction_with_language(name,language)
-  p "Hi, my name is #{name} and I am learning to program in #{langage}."
+  print "Hi, my name is #{name} and I am learning to program in #{langage}."
 end
 def introduction_with_language(name,language=Ruby)
-  p "Hi, my name is #{name} and I am learning to program in #{langage}."
+  print "Hi, my name is #{name} and I am learning to program in #{langage}."
 end
   
 
